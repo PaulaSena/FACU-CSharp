@@ -1,0 +1,7 @@
+C:\workspaces\c#\Praticas_CS_Estruturado\ListaExerciciosEstruturados\EX04C02\obj\Debug\EX04C02.csproj.CoreCompileInputs.cache
+C:\workspaces\c#\Praticas_CS_Estruturado\ListaExerciciosEstruturados\EX04C02\bin\Debug\EX04C02.exe.config
+C:\workspaces\c#\Praticas_CS_Estruturado\ListaExerciciosEstruturados\EX04C02\bin\Debug\EX04C02.exe
+C:\workspaces\c#\Praticas_CS_Estruturado\ListaExerciciosEstruturados\EX04C02\bin\Debug\EX04C02.pdb
+C:\workspaces\c#\Praticas_CS_Estruturado\ListaExerciciosEstruturados\EX04C02\obj\Debug\EX04C02.csprojAssemblyReference.cache
+C:\workspaces\c#\Praticas_CS_Estruturado\ListaExerciciosEstruturados\EX04C02\obj\Debug\EX04C02.exe
+C:\workspaces\c#\Praticas_CS_Estruturado\ListaExerciciosEstruturados\EX04C02\obj\Debug\EX04C02.pdb
