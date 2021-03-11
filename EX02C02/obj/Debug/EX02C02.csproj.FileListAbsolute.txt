@@ -1,0 +1,6 @@
+C:\workspaces\c#\Praticas_CS_Estruturado\ListaExerciciosEstruturados\EX02C02\bin\Debug\EX02C02.exe.config
+C:\workspaces\c#\Praticas_CS_Estruturado\ListaExerciciosEstruturados\EX02C02\bin\Debug\EX02C02.exe
+C:\workspaces\c#\Praticas_CS_Estruturado\ListaExerciciosEstruturados\EX02C02\bin\Debug\EX02C02.pdb
+C:\workspaces\c#\Praticas_CS_Estruturado\ListaExerciciosEstruturados\EX02C02\obj\Debug\EX02C02.csproj.CoreCompileInputs.cache
+C:\workspaces\c#\Praticas_CS_Estruturado\ListaExerciciosEstruturados\EX02C02\obj\Debug\EX02C02.exe
+C:\workspaces\c#\Praticas_CS_Estruturado\ListaExerciciosEstruturados\EX02C02\obj\Debug\EX02C02.pdb
